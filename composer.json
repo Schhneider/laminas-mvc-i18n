@@ -39,7 +39,7 @@
         "laminas/laminas-router": "^3.5.0",
         "laminas/laminas-servicemanager": "^4.5.1",
         "laminas/laminas-stdlib": "^3.10.1",
-        "laminas/laminas-validator": "dev-I-51993"
+        "laminas/laminas-validator": "^3"
     },
     "require-dev": {
         "laminas/laminas-coding-standard": "~2.5.0",
